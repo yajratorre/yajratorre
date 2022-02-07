@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yajratorre
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on other team
+- 💞️ I’m looking to collaborate on other teams
 - 📫 How to reach me ...message me to whatsapp +639611234720
 
 <!---
